@@ -397,10 +397,10 @@
     magic-string "^0.27.0"
     react-refresh "^0.14.0"
 
-animal-avatar-generator@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/animal-avatar-generator/-/animal-avatar-generator-1.1.0.tgz#081032d9f0616daac65a48f3119ef285ed7b28ae"
-  integrity sha512-IqLJl30I6NGdT43MceWWnLSLmWL/woOvNYnzBVy8ZSc7Sxhz3aeQ6BH5HSQjHsrRTlDxQkooyKocPMDw8YlGEA==
+animal-avatar-generator@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/animal-avatar-generator/-/animal-avatar-generator-1.2.0.tgz#298677c81d6e164cae949aabba03e2ff76d82481"
+  integrity sha512-C9fExOFmO5jz2KcaDLSn8IhyRayy63M7E/hf3pTIe2GvbVWFqTIZFMSTH41VGRJD+zNWQLmQwcDaA42slEz3lA==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
